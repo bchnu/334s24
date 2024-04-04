@@ -1,6 +1,6 @@
 # ELEC_ENG/COMP_ENG 334: Fundamentals of Blockchains and Decentralization
 
-Welcome! This is the repository for required projects of the above course.
+Welcome! This is the repository for the required projects of the above course.
 
 ## Project Suggestion
 You should create your own *private* repo to avoid your code being seen by others. **We recommend you refer to [this post](https://medium.com/@bilalbayasut/github-how-to-make-a-fork-of-public-repository-private-6ee8cacaf9d3) when creating your private repo.** If you wish to pull the latest updates from this public repo, you can run the following:
@@ -16,7 +16,7 @@ You need to run the project on your machines. **We strongly recommend Linux or M
 2. [VS Code](https://code.visualstudio.com/). It is totally free and very flexible. You need to install an [extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) for the Rust language support. Extensions for coding on non-local machines (via WSL/SSH) are also available to download.
 
 ## Policy
-Submissions later than due date will get 0 points.
+Submissions later than the due date will get 0 points.
 
 ## Acknowledgement
 We thank Professor Pramod Viswanath and Xuechao Wang for developing these course projects and for sharing their repository.
