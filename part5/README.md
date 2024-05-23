@@ -107,8 +107,8 @@ When receiving and processing a new transaction in *src/network/worker.rs*, plea
 
 #### Transaction signature checks:
 
-- Firstly, check if the transaction is signed correctly by the public key(s).
-- In the account-based model, check if the public key matches the owner's address of the withdrawing account. (This step needs struct **State**, see below.)
+- First, check if the transaction is signed correctly by the public key(s).
+- In the account-based model, check if the public key matches the owner's address of the withdrawing account.
 
 #### Double spend checks:
 
